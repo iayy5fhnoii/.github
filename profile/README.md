@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+## Who am I?
 
-**Here are some ideas to get you started:**
+I am a crypto validator with a lot of experience! You can be sure in me). 🙋‍♀️
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## My Expirience
+
+[![l4oqDz8R_200x200](https://github.com/user-attachments/assets/0f43b91f-3d39-447c-a496-4b394ee5efc2)](lava@valoper1yeq30jsdzc06yjjf7fpmfql2cuur84l2k7r7n9)
+
