@@ -3,6 +3,7 @@
 ## Who am I?
 
 I am a crypto validator with a lot of experience! You can be sure in me). 🙋‍♀️
+I'm a blockchain expert with a passion for ensuring the integrity, security, and reliability of blockchain networks. I bring a strong commitment to innovation and a deep understanding of validation, making me a leader in this field.
 
 ## My Expirience
 
